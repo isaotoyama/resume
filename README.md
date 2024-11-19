@@ -4,3 +4,8 @@
 4. Convert the markdown file to HTML and then to PDF with the markdown and pdfkit libraries, respectively.
 
 Libraries: openai, markdown, pdfkit
+
+
+Automatically Organizing PDFs
+
+Libraries: PyMuPDF, sentence_transformers, pandas, sklearn
